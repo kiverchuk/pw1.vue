@@ -1,0 +1,2962 @@
+{
+	"brands":["Audi","Ford","Mercedes-Benz"],
+	"models":{
+		"Audi" : ["A5","A6","Q7","TT"],
+		"Ford": ["Mustang","Focus","Fiesta","Ranger"],
+		"Mercedes-Benz" : ["Vito","A class","E class","G class"]
+	},
+	"cars":[
+		{
+			"brand" : "Audi",
+			"model" : "A5",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "213",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "40300",
+			"img" : "img/a-a5-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A5",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "180",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "37999",
+			"img" : "img/a-a5-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A5",
+			"anproductie" : "2013",
+			"capacitateamotor" : "2300",
+			"puteremotor" : "150",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "23333",
+			"img" : "img/a-a5-2013.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "400"},
+				{"text" : "orange" , "price" : "500"},
+				{"text" : "red" , "price" : "800"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "200"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "100"}
+			],
+			"aer":[
+				{"text" : "Fara", "price" : "0"},
+				{"text" : "Conditioner", "price" : "200"},
+				{"text" : "Climat control", "price" : "300"},
+				{"text" : "Climat control pe 2 canale", "price" : "450"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "0" , "price" : "1500"},
+				{"proprety" : "0" , "price" : "1000"},
+				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "0" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "245"},
+				{"proprety" : "0" , "price" : "180"},
+				{"proprety" : "0" , "price" : "120"},
+				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "1200"},
+				{"proprety" : "2" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A5",
+			"anproductie" : "2017",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "340",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "45001",
+			"img" : "img/a-a5-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "1" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "TT",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "150",
+			"tipmotor" : "Electro",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "37000",
+			"img" : "img/a-tt-2015.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "2" , "price" : "150"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "0" , "price" : "230"},
+				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "0" , "price" : "190"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "TT",
+			"anproductie" : "2014",
+			"capacitateamotor" : "2300",
+			"puteremotor" : "170",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "32999",
+			"img" : "img/a-tt-2015.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "2" , "price" : "200"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "0" , "price" : "220"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "0" , "price" : "240"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "222"},
+				{"proprety" : "1" , "price" : "234"},
+				{"proprety" : "1" , "price" : "300"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "TT",
+			"anproductie" : "2001",
+			"capacitateamotor" : "1800",
+			"puteremotor" : "100",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "13000",
+			"img" : "img/a-tt-2000.jpeg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "TT",
+			"anproductie" : "2001",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "130",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "15000",
+			"img" : "img/a-tt-2000.jpeg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A6",
+			"anproductie" : "2013",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "160",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "20000",
+			"img" : "img/a-a6-2013.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A6",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "260",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "29050",
+			"img" : "img/a-a6-2017.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Audi",
+			"model" : "A6",
+			"anproductie" : "2016",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "170",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "27000",
+			"img" : "img/a-a6-2017.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Audi",
+			"model" : "Q7",
+			"anproductie" : "2018",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "27000",
+			"img" : "img/a-q7-2017.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Audi",
+			"model" : "Q7",
+			"anproductie" : "2017",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "26900",
+			"img" : "img/a-q7-2017.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "17" , "price" : "0"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Audi",
+			"model" : "Q7",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "200",
+			"tipmotor" : "Electro",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "33000",
+			"img" : "img/a-q7-2017.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},	
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+			"brand" : "Ford",
+			"model" : "Mustang",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "213",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "40300",
+			"img" : "img/f-m-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Mustang",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "180",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "34999",
+			"img" : "img/f-m-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Mustang",
+			"anproductie" : "2005",
+			"capacitateamotor" : "2300",
+			"puteremotor" : "150",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "23333",
+			"img" : "img/f-m-2005.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "400"},
+				{"text" : "orange" , "price" : "500"},
+				{"text" : "red" , "price" : "800"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "200"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "100"}
+			],
+			"aer":[
+				{"text" : "Fara", "price" : "0"},
+				{"text" : "Conditioner", "price" : "200"},
+				{"text" : "Climat control", "price" : "300"},
+				{"text" : "Climat control pe 2 canale", "price" : "450"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "0" , "price" : "1500"},
+				{"proprety" : "0" , "price" : "1000"},
+				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "0" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "245"},
+				{"proprety" : "0" , "price" : "180"},
+				{"proprety" : "0" , "price" : "120"},
+				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "1200"},
+				{"proprety" : "2" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Mustang",
+			"anproductie" : "2019",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "340",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "45001",
+			"img" : "img/f-m-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "1" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Focus",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "150",
+			"tipmotor" : "Electro",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "37000",
+			"img" : "img/f-fo-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "2" , "price" : "150"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "0" , "price" : "230"},
+				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "0" , "price" : "190"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Fiesta",
+			"anproductie" : "2019",
+			"capacitateamotor" : "2300",
+			"puteremotor" : "170",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "32999",
+			"img" : "img/f-fi-2019.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "2" , "price" : "200"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "0" , "price" : "220"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "0" , "price" : "240"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "222"},
+				{"proprety" : "1" , "price" : "234"},
+				{"proprety" : "1" , "price" : "300"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Fiesta",
+			"anproductie" : "2011",
+			"capacitateamotor" : "1800",
+			"puteremotor" : "100",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "13000",
+			"img" : "img/f-fi-2011.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Focus",
+			"anproductie" : "2005",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "130",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "15000",
+			"img" : "img/f-fo-2005.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Ranger",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "160",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "20000",
+			"img" : "img/f-r-2016.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Ranger",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "260",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "29050",
+			"img" : "img/f-r-2016.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Ranger",
+			"anproductie" : "2016",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "170",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "22000",
+			"img" : "img/f-r-2016.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Fusion",
+			"anproductie" : "2016",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "27000",
+			"img" : "img/f-fi-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Focus",
+			"anproductie" : "2005",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "9900",
+			"img" : "img/f-fo-2005.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "17" , "price" : "0"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Ford",
+			"model" : "Fiesta",
+			"anproductie" : "2012",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "200",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "12000",
+			"img" : "img/f-fi-2011.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},	
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "Vito",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "213",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "40300",
+			"img" : "img/m-v-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "Vito",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "180",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "37999",
+			"img" : "img/m-v-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "0" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "0" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "Vito",
+			"anproductie" : "2005",
+			"capacitateamotor" : "2300",
+			"puteremotor" : "150",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "23333",
+			"img" : "img/m-v-2010.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "400"},
+				{"text" : "orange" , "price" : "500"},
+				{"text" : "red" , "price" : "800"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "200"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "100"}
+			],
+			"aer":[
+				{"text" : "Fara", "price" : "0"},
+				{"text" : "Conditioner", "price" : "200"},
+				{"text" : "Climat control", "price" : "300"},
+				{"text" : "Climat control pe 2 canale", "price" : "450"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "0" , "price" : "1500"},
+				{"proprety" : "0" , "price" : "1000"},
+				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "0" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "245"},
+				{"proprety" : "0" , "price" : "180"},
+				{"proprety" : "0" , "price" : "120"},
+				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "1200"},
+				{"proprety" : "2" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "A class",
+			"anproductie" : "2016",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "340",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "35222",
+			"img" : "img/m-a-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"},
+				{"text" : "orange" , "price" : "700"},
+				{"text" : "red" , "price" : "700"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "500"},
+				{"text" : "White" , "price" : "200"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "650"},				
+				{"text" : "pink" , "price" : "1000"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "500"},
+				{"text" : "17" , "price" : "1000"}
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "1500"},
+				{"proprety" : "1" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "700"},
+				{"proprety" : "1" , "price" : "880"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "245"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "2" , "price" : "120"},
+				{"proprety" : "1" , "price" : "600"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "400"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "A class",
+			"anproductie" : "2017",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "150",
+			"tipmotor" : "Electro",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "47000",
+			"img" : "img/m-a-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "2" , "price" : "150"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "0" , "price" : "230"},
+				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "0" , "price" : "190"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "E class",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "220",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "72999",
+			"img" : "img/m-e-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "2000"},
+				{"text" : "blue" , "price" : "2000"},
+				{"text" : "orange" , "price" : "3000"},
+				{"text" : "red" , "price" : "35000"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "gray + scaune brown" , "price" : "700"},				
+				{"text" : "pink" , "price" : "1200"},
+				{"text" : "blue" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "300"},
+				{"text" : "16" , "price" : "500"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "350"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"},
+				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "400"}
+			],
+			"parbrize" : [
+				{"text" : "2 automate" , "price" : "0"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "2" , "price" : "200"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "0" , "price" : "220"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "0" , "price" : "240"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "2" , "price" : "222"},
+				{"proprety" : "1" , "price" : "234"},
+				{"proprety" : "1" , "price" : "300"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "E class",
+			"anproductie" : "2007",
+			"capacitateamotor" : "1800",
+			"puteremotor" : "100",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Spate",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "10000",
+			"img" : "img/m-e-2005.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "A class",
+			"anproductie" : "2005",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "130",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Fata",
+			"tipcorp" : "Cupe",
+			"pretdefolt" : "15000",
+			"img" : "img/m-a-2010.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "orange" , "price" : "400"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "red" , "price" : "1000"}
+			],
+			"disck" : [
+				{"text" : "14" , "price" : "0"},
+				{"text" : "15" , "price" : "200"}
+			],
+			"audio" : [
+				{"text" : "2 boxe" , "price" : "0"},
+				{"text" : "4 boxe" , "price" : "100"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "400"}
+			],
+			"aer":[
+				{"text" : "Fara coditioner", "price" : "0"},
+				{"text" : "Conditioner", "price" : "150"},
+				{"text" : "Climat control", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "manuale" , "price" : "0"},
+				{"text" : "2 automate" , "price" : "150"}
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "0" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "G class",
+			"anproductie" : "2012",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "160",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "Spate",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "28000",
+			"img" : "img/m-g-2010.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "G class",
+			"anproductie" : "2018",
+			"capacitateamotor" : "2500",
+			"puteremotor" : "260",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "59050",
+			"img" : "img/m-g-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "0" , "price" : "250"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "2" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "G class",
+			"anproductie" : "2016",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "170",
+			"tipmotor" : "Benzin",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Sedan",
+			"pretdefolt" : "47000",
+			"img" : "img/m-g-2018.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "300"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "400"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "500"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "2000"},
+				{"text" : "red" , "price" : "2000"}
+			],
+			"disck" : [
+				{"text" : "15" , "price" : "0"},
+				{"text" : "16" , "price" : "300"},
+				{"text" : "17" , "price" : "550"}
+			],
+			"audio" : [
+				{"text" : "4 boxe" , "price" : "0"},
+				{"text" : "6 boxe" , "price" : "200"},
+				{"text" : "8 boxe" , "price" : "300"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "500"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "200"},
+				{"text" : "Climat control pe 2 canale", "price" : "350"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "190"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "0" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "A class",
+			"anproductie" : "2010",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Automat",
+			"tiptract" : "4x4",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "17000",
+			"img" : "img/m-a-2010.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "400"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "0" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "A class",
+			"anproductie" : "2005",
+			"capacitateamotor" : "3000",
+			"puteremotor" : "270",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "9900",
+			"img" : "img/m-a-2010.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "gray" , "price" : "0"},
+				{"text" : "pink" , "price" : "0"},
+				{"text" : "blue" , "price" : "500"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "black + scaune red" , "price" : "200"},
+				{"text" : "White" , "price" : "0"},
+				{"text" : "White + scaune black" , "price" : "300"},
+				{"text" : "gray" , "price" : "400"},
+				{"text" : "orange" , "price" : "1500"},
+				{"text" : "red" , "price" : "1500"}
+			],
+			"disck" : [
+				{"text" : "17" , "price" : "0"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "200"}
+			]
+		},
+		{
+			"brand" : "Mercedes-Benz",
+			"model" : "E class",
+			"anproductie" : "205",
+			"capacitateamotor" : "2000",
+			"puteremotor" : "200",
+			"tipmotor" : "Disel",
+			"tipcutie" : "Mecanica",
+			"tiptract" : "Fata",
+			"tipcorp" : "Crosover",
+			"pretdefolt" : "9000",
+			"img" : "img/m-e-2005.jpg",
+			"color" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"colorsalon" : [
+				{"text" : "black" , "price" : "0"},
+				{"text" : "White" , "price" : "0"}
+			],
+			"disck" : [
+				{"text" : "16" , "price" : "0"},
+				{"text" : "17" , "price" : "260"},
+				{"text" : "18" , "price" : "550"}
+
+			],
+			"audio" : [
+				{"text" : "6 boxe" , "price" : "0"},
+				{"text" : "8 boxe" , "price" : "200"},
+				{"text" : "6 boxe + 1 subwoofer" , "price" : "350"}
+			],
+			"aer":[
+				{"text" : "Conditioner", "price" : "0"},
+				{"text" : "Climat control", "price" : "100"},
+				{"text" : "Climat control pe 2 canale", "price" : "250"}
+			],
+			"parbrize" : [
+				{"text" : "4 automate" , "price" : "0"}				
+			],
+			
+			"comfort" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "330"},
+				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "250"},				
+				{"proprety" : "1" , "price" : "150"}	
+			],
+			"securitate" : [
+				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "0" , "price" : "100"},
+				{"proprety" : "1" , "price" : "300"},	
+				{"proprety" : "1" , "price" : "190"},
+				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "0" , "price" : "400"},
+				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "0" , "price" : "200"}
+			]
+		}
+
+
+	],
+	"cupons":[
+		{"name" : "cupon15", "discount" : 15},
+		{"name" : "cupon10", "discount" : 10},
+		{"name" : "cupon05", "discount" : 5}
+	],
+	"comment comfort/securitate proprety" : "0 - nus, 1 - sun,  2 - neasamblambele"
+}
