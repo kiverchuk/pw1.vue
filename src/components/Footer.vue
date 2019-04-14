@@ -1,6 +1,6 @@
 <template>
   <div>
-    Footer
+    <footer>&copy; Chiverciuc Anton     <a href="/history.html">history</a>     <a href="/index.html">Home</a> </footer>
   </div>
 </template>
 
