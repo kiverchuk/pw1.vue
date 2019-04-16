@@ -3,37 +3,39 @@ import Vue from 'vue'
 Vue.use(Vuex)
 const store = new Vuex.Store({
   state: {
-    x : 0,
-    y : 0
+    brands : Array,
+    models : Array,
+    cars : Array,
+    cupons : Array
+
   },
   mutations: {   
-    setX (state, x) {
-        state.x = x
-        //console.log( state.x)
+    setBrands (state, brands) {
+      state.brands = brands
     },
-    setY (state, y) {       
-        state.y = y
-       // console.log( state.y)
-    }
+    setModels (state, models) {
+      state.models = models
+    },
+    setCars (state, cars) {
+      state.cars = cars
+    },
+    setCupons (state, cupons) {
+      state.cupons = cupons
+    },
   },
   getters: {
     getX (state) {
       return state.x
     },
-    getY (state) {
-        return state.y
-    }
-   
   },
   actions: {
     fetchData (context) {
-      fetch('http://localhost:3004/data')
+      fetch('http://localhost:3000/brands')
         .then(response => {
           return response.json()
         })
         .then(data => {
           context.commit('setX', data[0].value)
-          context.commit('setY', data[1].value)
         })
     }
   }

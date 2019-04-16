@@ -1,26 +1,9 @@
 <template>
-  <div id="app">
-    <b-container>
-      <Header />
-      <router-view/>
-      <Footer />
-    </b-container>
+  <div>
+    
+
   </div>
 </template>
-
-<script>
-
-import Header from './components/Header.vue'
-import Footer from './components/Footer.vue'
-
-export default {
-  name: 'app',
-  components: {
-    Header,
-    Footer
-  }
-}
-</script>
 <style>
   .absolute, .absolute2{
 	width: 705px;
@@ -31,7 +14,7 @@ export default {
   left: calc(50vw - (700px / 2)); 
   padding: 20px;
   margin-bottom: 75px;
-  /* display:none; */
+  display:none;
 }
 .hclas{
   border-bottom: 1px dotted black;
