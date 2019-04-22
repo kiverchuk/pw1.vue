@@ -24,20 +24,57 @@ const store = new Vuex.Store({
     },
   },
   getters: {
-    getX (state) {
-      return state.x
+    getBrands (state) {
+      return state.brands
     },
+    getModels (state) {
+      return state.models
+    },
+    getCars (state) {
+      return state.cars
+    },
+    getCupons (state) {
+      return state.cupons
+    }
   },
   actions: {
-    fetchData (context) {
+    fetchBrands (context) {
       fetch('http://localhost:3000/brands')
         .then(response => {
           return response.json()
         })
         .then(data => {
-          context.commit('setX', data[0].value)
+          context.commit('setBrands', data)
+        })
+    },
+    fetchModels (context) {
+      fetch('http://localhost:3000/models')
+        .then(response => {
+          return response.json()
+        })
+        .then(data => {
+          context.commit('setModels', data)
+        })
+    },
+    fetchCars (context) {
+      fetch('http://localhost:3000/cars')
+        .then(response => {
+          return response.json()
+        })
+        .then(data => {
+          context.commit('setCars', data)
+        })
+    },
+    fetchCupons (context) {
+      fetch('http://localhost:3000/cupons')
+        .then(response => {
+          return response.json()
+        })
+        .then(data => {
+          context.commit('setCupons', data)
         })
     }
+  
   }
 })
 

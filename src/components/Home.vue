@@ -1,19 +1,15 @@
 <template>
-  <div >
+  <div id="Home">
     <aside>
     <nav>
      <div class="">
       <div class="form-group row">
           <label class="col-sm-2 col-form-label">Brand: </label>
           <div class="col-sm-10">
-             <div class="">
-              <select class="custom-select" id="brand">
-                <!-- <option value=""></option>
-                <option value="1">One</option>
-								<option value="2">Two</option>
-								<option value="3">Three</option> -->
+             <div class="" >
+              <select class="custom-select " id="brand" v-model="brandSelected">
+                <option  v-for="(brand, index) in brands" :value="index" >{{brand}}</option>                
               </select>
-              <!-- <div class="invalid-feedback">Alege brand</div> -->
             </div>
           </div>
       </div>
@@ -22,10 +18,7 @@
           <div class="col-sm-10">
               <div class="form-group">
               <select class="custom-select" required id="model">
-                  <option value=""></option>
-                  <option value="1">One</option>
-                  <option value="2">Two</option>
-                  <option value="3">Three</option>
+                  <option v-for="(model, index) in models[brands[brandSelected]]" :value="index" v-model="modelselected">{{model}}</option>
               </select>
               <div class="invalid-feedback">Alege model</div>
             </div>  
@@ -36,19 +29,19 @@
             <legend class="col-form-label col-sm-2 pt-0">Tip motor: </legend>
             <div class="col-sm-10">
                  <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Benzin" >
+                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Benzin" v-model="tip_motor">
                     <label class="form-check-label">
                     Benzin
                   </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Disel">
+                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Disel" v-model="tip_motor">
                     <label class="form-check-label">
                     Disel
                   </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Electro">
+                    <input class="form-check-input" type="radio" name="gridRadiosMotor" value="Electro" v-model="tip_motor">
                     <label class="form-check-label">
                     Electro
                   </label>
@@ -61,13 +54,13 @@
             <legend class="col-form-label col-sm-2 pt-0">Tip Cutie: </legend>
             <div class="col-sm-10">
                  <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosGearbox" value="Automat" >
+                    <input class="form-check-input" type="radio" name="gridRadiosGearbox" value="Automat" v-model="tip_cutie">
                     <label class="form-check-label">
                       Automat
                   </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosGearbox" value="Mecanica">
+                    <input class="form-check-input" type="radio" name="gridRadiosGearbox" value="Mecanica" v-model="tip_cutie">
                     <label class="form-check-label">
                       Mecanica
                   </label>
@@ -80,19 +73,19 @@
             <legend class="col-form-label col-sm-2 pt-0">Tract: </legend>
             <div class="col-sm-10">
                  <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="Fata" >
+                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="Fata" v-model="tip_tract">
                     <label class="form-check-label">
                       Fata
                   </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="Spate">
+                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="Spate" v-model="tip_tract">
                     <label class="form-check-label">
                       Spate
                   </label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="4x4">
+                    <input class="form-check-input" type="radio" name="gridRadiosPrivod" value="4x4" v-model="tip_tract">
                     <label class="form-check-label">
                       4x4
                   </label>
@@ -102,15 +95,15 @@
       </fieldset>
       <div class="form-group">
           <div class="">
-            <button class="btn btn-primary" id="cauta">Cauta</button>
+            <button class="btn btn-primary" id="cauta" @click="getCarListFromCars">Cauta</button>
             <!-- <button class="btn btn-info">Adauga cos</button> -->
           </div>
       </div>
     </div>
     </nav>
    </aside>
-   <News :cars="carsForDrow" v-on:comandMenuEmit="openCloseComandMeniu" :showComand="showComand"/>
-   <ComandMenu :idcar="0" v-if="showComand" v-on:comandMenuEmit="openCloseComandMeniu"/>
+   <News :cars="carsForDrow" @comandMenuEmit="openCloseComandMeniu" :showComand="showComand"/>
+    <ComandMenu :car="carsForDrow[idCarDrow]" v-if="showComand" @comandMenuEmit="openCloseComandMeniu"/>
   </div>
 </template>
 
@@ -122,165 +115,79 @@ import ComandMenu from '@/components/ComandMenu.vue'
 
 export default {
   name: 'Home',
+  data() {
+    return {
+      showComand : false,
+      carsForDrow : [],
+      idCarDrow : 0,
+      brandSelected : 0,
+      modelselected : 0,
+      allCars : [],
+      tip_motor : null,
+      tip_cutie : null,
+      tip_tract : null
+    }
+  },
   components: {
     News,
     ComandMenu
   },
-  props: {
-    
-  },
-  data() {
-    return {
-      showComand : false,
-      carsForDrow : [{
-			"brand" : "Audi",
-			"model" : "A5",
-			"anproductie" : "2018",
-			"capacitateamotor" : "2500",
-			"puteremotor" : "213",
-			"tipmotor" : "Benzin",
-			"tipcutie" : "Automat",
-			"tiptract" : "Fata",
-			"tipcorp" : "Sedan",
-			"pretdefolt" : "40300",
-			"img" : "img/a-a5-2018.jpg",
-			"color" : [
-				{"text" : "black" , "price" : "0"},
-				{"text" : "White" , "price" : "0"},
-				{"text" : "blue" , "price" : "500"},
-				{"text" : "orange" , "price" : "700"},
-				{"text" : "red" , "price" : "700"}
-			],
-			"colorsalon" : [
-				{"text" : "black" , "price" : "0"},
-				{"text" : "black + scaune red" , "price" : "500"},
-				{"text" : "White" , "price" : "200"},
-				{"text" : "gray" , "price" : "0"},
-				{"text" : "gray + scaune brown" , "price" : "650"},				
-				{"text" : "pink" , "price" : "1000"},
-				{"text" : "red" , "price" : "1500"}
-			],
-			"disck" : [
-				{"text" : "15" , "price" : "0"},
-				{"text" : "16" , "price" : "500"},
-				{"text" : "17" , "price" : "1000"}
-			],
-			"audio" : [
-				{"text" : "6 boxe" , "price" : "0"},
-				{"text" : "8 boxe" , "price" : "300"},
-				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
-				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
-			],
-			"aer":[
-				{"text" : "Conditioner", "price" : "0"},
-				{"text" : "Climat control", "price" : "100"},
-				{"text" : "Climat control pe 2 canale", "price" : "250"}
-			],
-			"parbrize" : [
-				{"text" : "4 automate" , "price" : "0"}				
-			],
-			
-			"comfort" : [
-				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
-				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
-			],
-			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
-				{"proprety" : "0" , "price" : "400"}	
-			]
-
-		},
-		{
-			"brand" : "Audi",
-			"model" : "A5",
-			"anproductie" : "2017",
-			"capacitateamotor" : "2000",
-			"puteremotor" : "180",
-			"tipmotor" : "Disel",
-			"tipcutie" : "Automat",
-			"tiptract" : "Fata",
-			"tipcorp" : "Sedan",
-			"pretdefolt" : "37999",
-			"img" : "img/a-a5-2018.jpg",
-			"color" : [
-				{"text" : "black" , "price" : "0"},
-				{"text" : "White" , "price" : "0"},
-				{"text" : "blue" , "price" : "500"},
-				{"text" : "orange" , "price" : "700"},
-				{"text" : "red" , "price" : "700"}
-			],
-			"colorsalon" : [
-				{"text" : "black" , "price" : "0"},
-				{"text" : "black + scaune red" , "price" : "500"},
-				{"text" : "White" , "price" : "200"},
-				{"text" : "gray" , "price" : "0"},
-				{"text" : "gray + scaune brown" , "price" : "650"},				
-				{"text" : "pink" , "price" : "1000"},
-				{"text" : "red" , "price" : "1500"}
-			],
-			"disck" : [
-				{"text" : "15" , "price" : "0"},
-				{"text" : "16" , "price" : "500"},
-				{"text" : "17" , "price" : "1000"}
-			],
-			"audio" : [
-				{"text" : "6 boxe" , "price" : "0"},
-				{"text" : "8 boxe" , "price" : "300"},
-				{"text" : "6 boxe + 1 subwoofer" , "price" : "200"},
-				{"text" : "8 boxe + 1 subwoofer" , "price" : "600"}
-			],
-			"aer":[
-				{"text" : "Conditioner", "price" : "0"},
-				{"text" : "Climat control", "price" : "100"},
-				{"text" : "Climat control pe 2 canale", "price" : "250"}
-			],
-			"parbrize" : [
-				{"text" : "4 automate" , "price" : "0"}				
-			],
-			
-			"comfort" : [
-				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
-				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
-			],
-			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
-				{"proprety" : "0" , "price" : "400"}	
-			]
-
-		}]
+  computed: {
+    brands : function(){
+      return this.$store.getters.getBrands
+    },
+    models : function(){
+      return this.$store.getters.getModels
+    },
+    cars : function(){
+      return this.$store.getters.getCars
     }
-    
   },
   methods: {
-      openCloseComandMeniu(val){
-        this.showComand = val;
+    openCloseComandMeniu(val){
+      this.showComand = val[0];
+      if(val[1])
+        this.idCarDrow = val[1]
+    },
+    messs (){
+      return this.$store.getters.getBrands
+    },
+    getCarListFromCars(){
+      this.allCars = this.$store.getters.getCars
+      this.carsForDrow = []
+      let dBrand = this.$store.getters.getBrands
+      let dMmodels = this.$store.getters.getModels
+      let brandNow = dBrand[this.brandSelected]
+      let modelNow = dMmodels[brandNow][this.modelselected]
+      for(let car of this.allCars){
+        if((car.brand == brandNow) &&
+          (car.model == modelNow) &&
+          ((car.tipmotor == this.tip_motor) || (this.tip_motor == null)) &&
+          ((car.tipcutie == this.tip_cutie) || (this.tip_cutie == null)) &&
+          ((car.tiptract == this.tip_tract) || (this.tip_tract == null)))
+            this.carsForDrow.push(car)
       }
+    }
   },
-}
+  mounted() {
+    this.$store.dispatch('fetchBrands').then(() => {})
+    this.$store.dispatch('fetchModels').then(() => {})
+    this.$store.dispatch('fetchCars').then(() => {})
+    
+    //this.brandSelected = (brands)[0]
+  },
+}  
 </script>
+
+/*
+
+
+
+
+
+
+
+
+
 
 

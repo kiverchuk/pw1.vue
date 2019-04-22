@@ -56,22 +56,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "0" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "0" , "price" : "340"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -126,22 +126,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -191,22 +191,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "150"},
 				{"proprety" : "0" , "price" : "1500"},
 				{"proprety" : "0" , "price" : "1000"},
-				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "880"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "245"},
 				{"proprety" : "0" , "price" : "180"},
 				{"proprety" : "0" , "price" : "120"},
-				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "1200"},
-				{"proprety" : "2" , "price" : "400"}	
+				{"proprety" : "2" , "price" : "0"}	
 			]
 
 		},
@@ -259,24 +259,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "1" , "price" : "1000"},
-				{"proprety" : "1" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
-				{"proprety" : "1" , "price" : "400"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -333,24 +333,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "2" , "price" : "150"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "230"},
-				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "2" , "price" : "100"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -407,24 +407,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "120"},
-				{"proprety" : "2" , "price" : "200"},
-				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "220"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},
-				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "240"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "222"},
-				{"proprety" : "1" , "price" : "234"},
-				{"proprety" : "1" , "price" : "300"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -478,21 +478,21 @@
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -545,22 +545,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -616,20 +616,20 @@
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 
@@ -682,24 +682,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -751,23 +751,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -820,23 +820,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -887,24 +887,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -948,23 +948,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},	
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "1" , "price" : "0"},			
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -1040,22 +1040,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -1110,22 +1110,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -1175,22 +1175,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "150"},
 				{"proprety" : "0" , "price" : "1500"},
 				{"proprety" : "0" , "price" : "1000"},
-				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "880"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "245"},
 				{"proprety" : "0" , "price" : "180"},
 				{"proprety" : "0" , "price" : "120"},
-				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "1200"},
-				{"proprety" : "2" , "price" : "400"}	
+				{"proprety" : "2" , "price" : "0"}	
 			]
 
 		},
@@ -1243,24 +1243,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "1" , "price" : "1000"},
-				{"proprety" : "1" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
-				{"proprety" : "1" , "price" : "400"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -1317,24 +1317,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "2" , "price" : "150"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "230"},
-				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "2" , "price" : "100"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -1391,24 +1391,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "120"},
-				{"proprety" : "2" , "price" : "200"},
-				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "220"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},
-				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "240"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "222"},
-				{"proprety" : "1" , "price" : "234"},
-				{"proprety" : "1" , "price" : "300"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -1462,21 +1462,21 @@
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -1529,22 +1529,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -1600,20 +1600,20 @@
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 
@@ -1666,24 +1666,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -1735,23 +1735,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -1804,23 +1804,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -1871,24 +1871,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -1932,23 +1932,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},	
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "1" , "price" : "0"},			
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -2038,22 +2038,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -2108,22 +2108,22 @@
 			
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "2" , "price" : "1000"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"}	
 			]
 
@@ -2173,22 +2173,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "100"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "150"},
 				{"proprety" : "0" , "price" : "1500"},
 				{"proprety" : "0" , "price" : "1000"},
-				{"proprety" : "2" , "price" : "700"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "880"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "245"},
 				{"proprety" : "0" , "price" : "180"},
 				{"proprety" : "0" , "price" : "120"},
-				{"proprety" : "2" , "price" : "600"},
+				{"proprety" : "2" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "1200"},
-				{"proprety" : "2" , "price" : "400"}	
+				{"proprety" : "2" , "price" : "0"}	
 			]
 
 		},
@@ -2241,24 +2241,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "1500"},
-				{"proprety" : "1" , "price" : "1000"},
-				{"proprety" : "1" , "price" : "700"},
-				{"proprety" : "1" , "price" : "880"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "245"},
-				{"proprety" : "1" , "price" : "180"},
-				{"proprety" : "2" , "price" : "120"},
-				{"proprety" : "1" , "price" : "600"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "1200"},
-				{"proprety" : "1" , "price" : "400"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -2315,24 +2315,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "2" , "price" : "150"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "180"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "230"},
-				{"proprety" : "1" , "price" : "225"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "2" , "price" : "100"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -2389,24 +2389,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "120"},
-				{"proprety" : "2" , "price" : "200"},
-				{"proprety" : "1" , "price" : "250"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "230"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "120"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "220"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},
-				{"proprety" : "1" , "price" : "277"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "240"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "2" , "price" : "222"},
-				{"proprety" : "1" , "price" : "234"},
-				{"proprety" : "1" , "price" : "300"}	
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -2460,21 +2460,21 @@
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -2527,22 +2527,22 @@
 			"comfort" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
 				{"proprety" : "0" , "price" : "190"},
 				{"proprety" : "0" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			]
 
 		},
@@ -2598,20 +2598,20 @@
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 
@@ -2664,24 +2664,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
 				{"proprety" : "0" , "price" : "250"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "2" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "2" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -2733,23 +2733,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "190"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
 				{"proprety" : "0" , "price" : "200"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -2802,23 +2802,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
+				{"proprety" : "1" , "price" : "0"},				
 				{"proprety" : "0" , "price" : "200"}
 			]
 		},
@@ -2869,24 +2869,24 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},				
-				{"proprety" : "1" , "price" : "200"}
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}
 			]
 		},
 		{
@@ -2930,23 +2930,23 @@
 			],
 			
 			"comfort" : [
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "200"},
-				{"proprety" : "1" , "price" : "150"},
-				{"proprety" : "1" , "price" : "330"},
-				{"proprety" : "1" , "price" : "400"},
-				{"proprety" : "1" , "price" : "300"},
-				{"proprety" : "1" , "price" : "250"},				
-				{"proprety" : "1" , "price" : "150"}	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},				
+				{"proprety" : "1" , "price" : "0"}	
 			],
 			"securitate" : [
-				{"proprety" : "1" , "price" : "300"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "100"},
-				{"proprety" : "1" , "price" : "300"},	
-				{"proprety" : "1" , "price" : "190"},
-				{"proprety" : "1" , "price" : "200"},
+				{"proprety" : "1" , "price" : "0"},	
+				{"proprety" : "1" , "price" : "0"},
+				{"proprety" : "1" , "price" : "0"},
 				{"proprety" : "0" , "price" : "400"},
-				{"proprety" : "1" , "price" : "150"},			
+				{"proprety" : "1" , "price" : "0"},			
 				{"proprety" : "0" , "price" : "200"}
 			]
 		}
@@ -2957,6 +2957,6 @@
 		{"name" : "cupon15", "discount" : 15},
 		{"name" : "cupon10", "discount" : 10},
 		{"name" : "cupon05", "discount" : 5}
-	],
-	"comment comfort/securitate proprety" : "0 - nus, 1 - sun,  2 - neasamblambele"
+	]
+	
 }

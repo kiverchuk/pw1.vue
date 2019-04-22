@@ -24,8 +24,8 @@ export default {
         cars : Array,
     },
      methods: {
-         show : function(){
-             this.$emit('comandMenuEmit', true)
+         show : function(e){
+             this.$emit('comandMenuEmit', [true,e.target.id])
          }
          
      }
